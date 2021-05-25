@@ -105,12 +105,10 @@ print()
 if opts.all_categories:
     categories = None
 else:
-    categories = [
-        'alt.atheism',
-        'talk.religion.misc',
-        'comp.graphics',
-        'sci.space',
-    ]
+    categories = ['sci.crypt', 
+    'sci.electronics', 
+    'sci.med', 
+    'sci.space']
 
 if opts.filtered:
     remove = ('headers', 'footers', 'quotes')
