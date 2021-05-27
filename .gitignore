@@ -6,6 +6,11 @@ bin-release/
 
 # Other files and folders
 .settings/
+.vscode*
+/data/*
+.ipynb_checkpoints*
+*.pyc
+*venv*
 
 # Executables
 *.swf
