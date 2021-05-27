@@ -1,5 +1,15 @@
 # 20 Newsgroups Classification Model
 
+This project is for classification of 20 newsgroup documents in these fields:
+
+- medicine
+- space
+- cryptography
+- electronics
+
+Code can be found to classify these documents with logistic regression model or random forest model.
+
+
 ## Out of the box docker -
 Needs docker on computer
 1. Go to project folder.
