@@ -1,5 +1,5 @@
 from sklearn.datasets import fetch_20newsgroups
-from sklearn.feature_extraction.text import HashingVectorizer, TfidfVectorizer
+from sklearn.feature_extraction.text import TfidfVectorizer
 import pandas as pd
 
 

@@ -10,6 +10,7 @@ bin-release/
 /data/*
 .ipynb_checkpoints*
 *.pyc
+*venv*
 
 # Executables
 *.swf
