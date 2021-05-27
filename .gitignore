@@ -8,6 +8,8 @@ bin-release/
 .settings/
 .vscode*
 /data/*
+.ipynb_checkpoints*
+*.pyc
 
 # Executables
 *.swf
